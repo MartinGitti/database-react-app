@@ -8,11 +8,6 @@ This web page is specifically formulated & designed to suit a car manafacturer t
 ### Software requirements of the App:
 
 #### System Architecture
-#### The 'MERN' stack will be used for the development of this Web Application.
-* MongoDB-> Database,
-* Express-> Backend,
-* React-> Frontend,
-* Node.js-> Backend.
 
 ##### Front-end
 * I will be using React to create the Web App.
@@ -25,6 +20,7 @@ This web page is specifically formulated & designed to suit a car manafacturer t
 
 ##### Database
 * MongoDB will serve as the database which is where all user information and data will be stored, accessed and munipulated.
+<hr/>
 
 ### Display of web application in action:
 <img src="demo.gif" alt="display of web app">
@@ -38,7 +34,6 @@ This web page is specifically formulated & designed to suit a car manafacturer t
 * Type "npm start" in both front and backend folders to run both front and back end after node-modules have been installed.
 * The app should open up in your default browser and be available to use.
 <hr/>
-
 
 # How to run application?
 
