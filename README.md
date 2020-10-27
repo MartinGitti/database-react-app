@@ -1,3 +1,45 @@
+# full-stack-web-app
+Full stack web application that allows users to add, edit or remove data from the database.
+This web page is specifically formulated & designed to suit a car manafacturer that would like to keep track of all vehicles in its fleet.
+<hr/>
+
+## Semi-Fullstack Web Application
+
+### Software requirements of the App:
+
+#### System Architecture
+#### The 'MERN' stack will be used for the development of this Web Application.
+* MongoDB-> Database,
+* Express-> Backend,
+* React-> Frontend,
+* Node.js-> Backend.
+
+##### Front-end
+* I will be using React to create the Web App.
+* The client(frontend) will be created using 'CRA'=> create-react-app(React) as the ReactJS framework.
+* Within the React app, I'll be using Javascript, HTML & CSS.
+* The React app will act as the user interface and offer the user experience.
+* I've used some Css styling from the react-bootstrap as my styling framework as it is easy to use and speeds up styling needed for the app. 
+  can be found @ ` http://getskeleton.com/ `.
+* I will also be making use of custom style sheets where needed.
+
+##### Database
+* MongoDB will serve as the database which is where all user information and data will be stored, accessed and munipulated.
+
+### Display of web application in action:
+<img src="demo.gif" alt="display of web app">
+<hr/>
+
+### Use of code:
+* To use or edit code, load files to local drive.
+* Open files in a text editor of your choice.
+* Navigate to back end files, via the terminal & type "npm i" |or| "npm install" to install node-modules.
+* Navigate to front end files, root directory of project, via the terminal and type "npm i" |or| "npm install" to install node-modules.
+* Type "npm start" in both front and backend folders to run both front and back end after node-modules have been installed.
+* The app should open up in your default browser and be available to use.
+<hr/>
+
+
 # How to run application?
 
 * Cd to root project directory and install 'node_modules' with 'npm i' || 'npm install'.
@@ -74,3 +116,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+<hr/>
+
+<span>Happy Coding :sunglasses:</span>
